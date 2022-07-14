@@ -10,5 +10,6 @@ public void Try()
 {
 	System.out.println("hello everyone i m trying to call in same class");
 }
+// study of git bash
 }
 
